@@ -1,8 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1768613688
+::res://::1768614405
 icon.png::CompressedTexture2D::3110400233665201551::1768613688::1768613688::1::::<><><>0<>0<>6342b07842170543777bf29d0a476faf<>res://.godot/imported/icon.png-487276ed1e3a0c39cad0279d744ee560.ctex::
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1744386698::1768613601::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
 README.md::TextFile::-1::1768613688::0::1::::<><><>0<>0<><>::
+main.tscn::PackedScene::7733020750940682998::1768614405::0::1::::<><><>0<>0<><>::
 wakatime_logo.jpg::CompressedTexture2D::5654003836091811266::1768613688::1768613688::1::::<><><>0<>0<>a0b96882a3abe06cb1daec66de3e26bd<>res://.godot/imported/wakatime_logo.jpg-a50f628e445fd6bef17dff1651d611bc.ctex::
 ::res://addons/::1768613688
 ::res://addons/wakatime/::1768613688
